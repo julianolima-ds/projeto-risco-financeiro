@@ -14,7 +14,7 @@ O projeto consiste em um fluxo completo de dados:
 1.  **Extração (SQL):** Os dados são consultados diretamente do banco MySQL através de JOINs entre as tabelas de Clientes, Contratos e Pagamentos.
 2.  <img width="1915" height="1029" alt="image" src="https://github.com/user-attachments/assets/eae870ba-e49b-4dfe-b705-25ae9c76a836" />
 
-3.  **Transformação (Python):** Utilizeii Python para automatizar a limpeza, calcular o volume de atraso por cliente e criar uma lógica de classificação de Score personalizada (Excelente, Alto, Médio e Crítico).
+3.  **Transformação (Python):** Eu utilizei Python para automatizar a limpeza, calcular o volume de atraso por cliente e criar uma lógica de classificação de Score personalizada (Excelente, Alto, Médio e Crítico).
 4.  <img width="1911" height="1032" alt="image" src="https://github.com/user-attachments/assets/d57ec27e-2f53-463c-a316-d0acb8cdd448" />
 
 5.  **Carga (CSV/Power BI):** Os dados são exportados em formato otimizado (UTF-8-SIG e delimitador de ponto e vírgula) para garantir integridade na leitura do Power BI e compatibilidade com Excel.
