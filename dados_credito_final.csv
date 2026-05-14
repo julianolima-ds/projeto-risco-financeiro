@@ -1,0 +1,5 @@
+﻿nome_cliente;cidade;renda_mensal;score_credito;total_pago;total_em_atraso;faixa_score;score_ordem
+Carlos Silva;São Paulo;5500.0;850;2000.0;0.0;Excelente;1
+Mariana Souza;Rio de Janeiro;3200.0;450;1000.0;1000.0;Médio;3
+Juliana Paes;Salvador;2100.0;300;0.0;1000.0;Crítico;4
+Ricardo Alves;Brasilia;4500.0;600;0.0;1000.0;Alto;2
